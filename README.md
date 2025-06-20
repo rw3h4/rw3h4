@@ -2,7 +2,6 @@
 
 🧠 Problem Solver | 🤖 AI/ML Enthusiast | 🐧 Linux lover |
 🚀 Passionate about building purposeful tech for real-world impact |
-💡 I enjoy turning ideas into useful software for intelligent systems. |
 🌱 Learning daily | 🌍 Based in Uganda (for now 😉) |
 
 <!---
