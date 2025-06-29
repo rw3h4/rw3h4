@@ -1,8 +1,8 @@
-## 👋 Hi, I’m @rw3h4
+## 👋 Hi, I’m @rw3h4.R
 
-🧠 Problem Solver | 🤖 AI/ML Enthusiast | 🐧 Linux lover |
-🚀 Passionate about building purposeful tech for real-world impact |
-🌱 Learning daily | 🌍 Based in Uganda (for now 😉) |
+AI/Data 👁️ + Mobile 📱 + Embedded Systems ⚙️ 
+🧠 Curious mind solving real-world problems with purposeful tech  
+🐧 Linux lover | Always learning 🌱 | 🌍 Based in Uganda (for now 😉)
 
 <!---
 rw3h4/rw3h4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
