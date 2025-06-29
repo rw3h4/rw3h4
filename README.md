@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m @rw3h4.R
 
 AI/Data 👁️ + Mobile 📱 + Embedded Systems ⚙️ 
+
 🧠 Curious mind solving real-world problems with purposeful tech  
 🐧 Linux lover | Always learning 🌱 | 🌍 Based in Uganda (for now 😉)
 
